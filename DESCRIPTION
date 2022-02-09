@@ -1,0 +1,15 @@
+Package: EnsDb.Hsapiens.v105
+Title: Ensembl based annotation package
+Description: Exposes an annotation databases generated from Ensembl.
+Version: 0.99.12
+Author: Tao Wu
+Maintainer: Tao Wu <1650464505@qq.com>
+Depends: ensembldb
+License: Artistic-2.0
+organism: Homo sapiens
+species: Homo sapiens
+provider: Ensembl
+provider_version: 105
+release_date: Wed Feb  2 02:48:38 2022
+resource_url: ensembldb.ensembl.org
+biocViews: AnnotationData, EnsDb, Homo_sapiens
